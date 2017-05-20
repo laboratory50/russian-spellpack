@@ -1,0 +1,2 @@
+Russian dictionary pack: thesaurus, hyphenation, spellchecker dictionary "e/yo".
+Spellchecker and thesaurus based on dictionary of AOT group.
