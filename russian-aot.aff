@@ -5,10 +5,10 @@ FLAG num
 # to Hunspell format by Yakov Reztsov in 2011 from
 # http://sourceforge.net/projects/seman/  (http://www.aot.ru) 
 # License: LGPL v2.1.
-# Verion: 0.3.9 - ieyo
+# Verion: 0.4.1 (updated 24.02.2018)
 
-TRY оаеинстрлвпуяыюэкмдьзбгшчйжхщцфъ
-KEY йцукенгшщзхъфывапролджэячсмитьбю
+TRY оаеиёнстрлвпуяыюэкмдьзбгшчйжхщцфъ
+KEY йцукенгшщзхъфывапролджэячсмитьбю|её
 WORDCHARS -.'`
 
 BREAK 0
